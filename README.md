@@ -1,2 +1,2 @@
 # lab1-swe
-update-game: Swe-lab1-Review-pull-requests
+update-game: Swe-lab1-Review-pull-requests 2
